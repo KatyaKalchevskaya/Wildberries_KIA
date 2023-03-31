@@ -1,0 +1,16 @@
+{
+  "name": "wildberries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build ./src/WB.html --no-source-maps",
+    "start": "parcel ./src/WB.html --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
