@@ -1,0 +1,40 @@
+
+
+
+.menu__main{
+    height: 150px;
+
+    display: flex;
+    justify-content: space-between;
+    background-image: linear-gradient(to left, rgb(102, 6, 111), rgb(246, 126, 246));
+
+}
+.wb__menu__main{
+    margin-top: 50px;
+    margin-left: 10px;
+    height: 60px;
+    width: 140px;
+
+    border-radius: 10px;
+    border-color: none;
+
+}
+
+.search__menu__main{
+    margin-top: 50px;
+    height: 60px;
+    width: 60%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.basket__menu__main{
+    margin-top: 50px;
+    margin-right: 10px;
+    height: 60px;
+    width: 140px;
+
+    border-radius: 10px;
+    
+
+}
